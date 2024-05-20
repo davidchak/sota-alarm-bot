@@ -1,0 +1,13 @@
+{
+  "name": "sota-alarm-bot",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces":[
+    "./apps/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
