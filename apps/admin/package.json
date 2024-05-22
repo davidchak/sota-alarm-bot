@@ -1,5 +1,5 @@
 {
-  "name": "@sota-alarm-bot/admin",
+  "name": "@sota/admin",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@consta/header": "^3.0.0",
     "@consta/icons": "^1.0.1",
     "@consta/uikit": "^5.3.1",
     "install": "^0.13.0",
